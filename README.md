@@ -1,4 +1,4 @@
-### Hello there <img src="https://thumbs.gfycat.com/BeneficialShamelessAmphiuma-size_restricted.gif" width="80" height="34" />
+### Hello there <img src="https://thumbs.gfycat.com/BeneficialShamelessAmphiuma-size_restricted.gif" width="140" height="59" />
 
 <!--
 **matspiewak/matspiewak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
