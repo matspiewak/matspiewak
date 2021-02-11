@@ -4,6 +4,7 @@
 - 🎓 Studying IT and Econometrics at UG
 - 💻 Interested in coding
 - 📱 New technologies enthusiast
+- 😄 Pronouns: He/Him, They/Them
 
 ## 📚 Skills
  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -14,6 +15,19 @@
  
  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
  <img src="https://img.shields.io/badge/Tool-Visual%20Studio%20Code-blue?style=for-the-badge&logo=appveyor">
+
+## 🌱 I’m currently learning
+- SAS Viya
+- Game development
+- UI Design
+
+## 🔭 I’m currently working on
+- Bachelor thesis
+- Web games
+
+## 📫 How to reach me:
+- <a href="https://www.linkedin.com/in/matspiewak/">LinkedIn</a>
+- <a href="https://twitter.com/Spiewaak">Twitter</a>
 
 ## 📈Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matspiewak&layout=compact&theme=dracula)](https://github.com/matspiewak/github-readme-stats)[![Matspiewak's GitHub stats](https://github-readme-stats.vercel.app/api?username=matspiewak&theme=dracula)](https://github.com/matspiewak/github-readme-stats)
