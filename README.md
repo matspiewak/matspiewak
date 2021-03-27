@@ -16,7 +16,7 @@
  <img src="https://img.shields.io/badge/Tool-Visual%20Studio%20Code-blue?style=for-the-badge&logo=appveyor">
 
 ## 🌱 I’m currently learning
-- SAS Viya
+- Native apps development
 - Game development
 - UI Design
 
