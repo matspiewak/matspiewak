@@ -21,8 +21,8 @@
 - UI Design
 
 ## 🔭 I’m currently working on
-- Bachelor thesis
 - Web games
+- cross-platform apps
 
 ## 📫 How to reach me:
 - <a href="https://www.linkedin.com/in/matspiewak/">LinkedIn</a>
