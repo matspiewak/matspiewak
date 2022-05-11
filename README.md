@@ -26,7 +26,6 @@
 
 ## 📫 How to reach me:
 - <a href="https://www.linkedin.com/in/matspiewak/">LinkedIn</a>
-- <a href="https://twitter.com/Spiewaak">Twitter</a>
 
 <!--## 📈Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matspiewak&layout=compact&theme=dracula)](https://github.com/matspiewak/github-readme-stats)[![Matspiewak's GitHub stats](https://github-readme-stats.vercel.app/api?username=matspiewak&theme=dracula)](https://github.com/matspiewak/github-readme-stats)
