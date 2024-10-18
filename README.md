@@ -1,7 +1,6 @@
 # Hello there <img src="https://thumbs.gfycat.com/BeneficialShamelessAmphiuma-size_restricted.gif" width="282" height="120" />
 
 ## 🤔 About me
-- 🎓 Studying IT and Econometrics at UG
 - 💻 Interested in coding
 - 📱 New technologies enthusiast
 
@@ -18,7 +17,7 @@
 ## 🌱 I’m currently learning
 - Native apps development
 - Game development
-- UI Design
+- UI/UX Design
 
 ## 🔭 I’m currently working on
 - Web games
